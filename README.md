@@ -1,9 +1,9 @@
 # Table-Tennis-Motion-detection
 
 Requirements:
--> Opencv
--> Numpy
--> Mouse (pip install mouse)
+1. Opencv
+2. Numpy
+3. Mouse (pip install mouse)
 
 Link to the game :
 https://www.agame.com/game/table-tennis-challenge
